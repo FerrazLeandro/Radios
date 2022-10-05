@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.radio {
+    width: 80%;
+    height: 200px;
+    margin: 10%;
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+    border-radius: 20px;
+    align-items: center;
+    
+}
